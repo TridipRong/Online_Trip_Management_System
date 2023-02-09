@@ -133,7 +133,7 @@
 
 ---
 
-<img src=".\Images\ER_Diagram_TMS.jpeg" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src=".\Images\trip management.png" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ---
 
