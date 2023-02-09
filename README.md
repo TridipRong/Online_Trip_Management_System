@@ -63,7 +63,7 @@
 
 ```
 
-## AWS Deployed link
+
 
 ## API Root Endpoint
 
@@ -129,7 +129,7 @@
 
 <a href="https://drive.google.com/file/d/17K024rskhj2pOkma9BQkG0Zxeozvd3XA/view?usp=sharing">**Video Drive Link** </a>
 
-### E-R Diagram Of Covid-19 Application
+### E-R Diagram
 
 ---
 
